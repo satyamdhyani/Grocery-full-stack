@@ -13,7 +13,7 @@ import SummaryApi from './common/SummaryApi.js';
 import Axios from './utils/Axios.js';
 import { handleAddItemCart } from './store/cartProduct.js';
 import GlobalProvider from './provider/GlobalProvider.jsx';
-import CartMobile from './components/cartMobile.jsx';
+import CartMobile from './components/CartMobile.jsx';
 
 function App() {
 

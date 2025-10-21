@@ -2,7 +2,7 @@
 import { Outlet, useLocation } from 'react-router-dom'
 import './App.css'
 import Header from './components/Header.jsx'
-import Footer from './components/footer.jsx'
+import Footer from './components/Footer.jsx'
 import toast, { Toaster } from 'react-hot-toast';
 import fetchUserDetails from './utils/fetchUserDetails.js';
 import { useEffect } from 'react';
